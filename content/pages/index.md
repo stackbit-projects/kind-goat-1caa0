@@ -52,7 +52,7 @@ sections:
         content_align: center
         actions:
           - label: Subscribe
-            url: /thank-you
+            url: 'https://podcasts.apple.com/us/podcast/wtfinance/id1554934665?uo=4'
             style: secondary
             has_icon: true
             icon: arrow-right
