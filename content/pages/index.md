@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Welcome to WTFinance Podcast
+    title: "Welcome to the\_ WTFinance Podcast"
     subtitle: Making Finance Easy For Everyone
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
