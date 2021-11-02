@@ -6,10 +6,7 @@ sections:
     subtitle: Making Finance Easy For Everyone
     content: |
       A podcast where we interview Finance, Trading and Investing experts
-    actions:
-      - label: Subscribe to Podcast
-        url: /thank-you
-        style: primary
+    actions: []
     image: /images/WTFinance Thumbnail.png
     image_alt: Hero section placeholder image
     media_position: left
