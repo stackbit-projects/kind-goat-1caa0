@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to WTFinance Podcast
-    subtitle: Optional hero section subtitle
+    subtitle: Making Finance Easy For Everyone
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
